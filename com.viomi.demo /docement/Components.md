@@ -13,6 +13,8 @@
 
  - [时间弹窗-TimePickerDialog](#时间弹窗-timepickerdialog)
 
+ - [基础图片-BaseImage](#基础图片-BaseImage)
+
  - [普通列表项-ListItem](#普通列表项-listitem)
 
  - [加载弹窗-Loading](#加载弹窗-loading)
@@ -20,6 +22,12 @@
  - [导航栏-NavigationBar](#导航栏-navigationbar)
 
  - [搜索框-SearchBar](#搜索框-searchbar)
+
+ - [滑动组件-YMSlider](#滑动组件-YMSlider)
+
+ - [带按钮滑动组件-YMButtonSlider](#带按钮滑动组件-YMButtonSlider)
+
+ - [上线拖拽组件-StageDisplay](#上线拖拽组件-StageDisplay)
 
  - [开关-Switch](#开关-switch)
 
@@ -774,6 +782,8 @@ onValueChange(value){
 ## 带按钮滑动组件-YMButtonSlider
 
 > 该组件包着YMSlider组件，YMSlider组件有添加按钮的属性，为了避免属性冲突，建议使用YMSlider组件
+
+[⬆️回到目录](#目录)
 
 ***
 
